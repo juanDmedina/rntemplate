@@ -1,5 +1,6 @@
 
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" /> ## React Native Template TypeScript React Native Template TypeScript
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
+##React Native Template TypeScript React Native Template TypeScript
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/juanDmedina/rntemplate?color=%2361dbfb&style=for-the-badge&logo=github)](https://github.com/juanDmedina/rntemplate/stargazers/) [![GitHub Repo Forks](https://img.shields.io/github/forks/juanDmedina/rntemplate?color=%2361dbfb&style=for-the-badge&logo=github&label=Forks)](https://github.com/juanDmedina/rntemplate/network/members)
 
