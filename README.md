@@ -15,6 +15,34 @@
 npm install @react-navigation/stack @react-navigation/native react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view  react-native-vector-icons
 ```
 
+## :alert: Usage
+
+- you must have [visual studio code](https://code.visualstudio.com/) or the IDE of your choice previously installed 
+
+- You must be located in the react directory
+
+```
+cd \rntemplate\rntemplate
+```
+
+- You must install the dependencies
+```
+npm install
+```
+
+- you must have an emulator or device connected
+
+- Finally run the project with the following command
+
+```
+npx react-native run-android
+```
+or
+
+```
+npx react-native run-ios
+```
+
 #### React Native <=> Template Version
 
 | React Native | Template |
