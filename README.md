@@ -26,7 +26,7 @@ npm install @react-navigation/stack @react-navigation/native react-native-reanim
 
 - You must have [visual studio code](https://code.visualstudio.com/) or the IDE of your choice previously installed 
 
-- You must be located in the react directory
+- You must be located in the react native directory
 
 ```
 cd [Your path]\rntemplate\rntemplate
