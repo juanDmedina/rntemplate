@@ -9,10 +9,10 @@
 ## :star: Initial
 
 - Usage directly within the [React Native CLI](https://github.com/react-native-community/cli)
-- Minimal additional dependencies
+- Minimal additional dependencies that are already included "you must not be installed":
 
 ```
-npm install @react-navigation/stack @react-navigation/native react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view  react-native-vector-icons
+@react-navigation/stack @react-navigation/native react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view  react-native-vector-icons
 ```
 
 ## 🏹 Setting up the development environment
