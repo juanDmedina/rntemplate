@@ -25,7 +25,7 @@ npm install @react-navigation/stack @react-navigation/native react-native-reanim
 - clone this [repositoty](https://github.com/juanDmedina/rntemplate.git) or download zip.
 
 ```
-https://github.com/juanDmedina/rntemplate.git
+git clone https://github.com/juanDmedina/rntemplate.git
 ```
 
 - You must have [visual studio code](https://code.visualstudio.com/) or the IDE of your choice previously installed 
