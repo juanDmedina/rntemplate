@@ -15,7 +15,7 @@
 npm install @react-navigation/stack @react-navigation/native react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view  react-native-vector-icons
 ```
 
-## :start: Setting up the development environment
+## 🏹 Setting up the development environment
 
 - Review the [react native development environment](https://reactnative.dev/docs/environment-setup)
 
